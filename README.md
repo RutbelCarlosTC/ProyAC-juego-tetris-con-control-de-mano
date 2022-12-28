@@ -1,5 +1,5 @@
 # ProyAC-juego-tetris-con-control-de-mano
 ***Librerias usadas:***
--PpenCV
+-OpenCV
 -Pygame
 -Mediapipe
